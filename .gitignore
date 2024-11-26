@@ -1,0 +1,10 @@
+__pycache__/
+
+DCGAN/
+fastapi/
+results/
+
+*.jpg
+
+.env
+envs.yaml

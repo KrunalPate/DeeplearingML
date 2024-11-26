@@ -1,0 +1,9 @@
+#!include:.gitignore
+
+.gcloudignore
+.git
+.github
+.gitignore
+
+.md
+.sql
